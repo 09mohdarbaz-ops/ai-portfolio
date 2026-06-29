@@ -18,9 +18,9 @@ I build AI-powered consulting and market research solutions using Large Language
 
 | Project | Status |
 |---------|--------|
-| AI Market Research Assistant | 🚧 Coming Soon |
+| AI Market Research Assistant | ✅ Completed |
 | AI Financial Modeling Assistant | 🚧 Coming Soon |
-| AI Competitor Intelligence Dashboard | 🚧 Coming Soon |
+| AI Competitor Intelligence Dashboard | ✅ Completed |
 | AI Market Sizing Tool | 🚧 Coming Soon |
 | AI Survey Analytics | 🚧 Coming Soon |
 | AI Proposal Generator | 🚧 Coming Soon |
